@@ -29,7 +29,7 @@
     "@types"
   ],
   "dependencies": {
-    "@owd-client/core": "^2.0.0-beta.3-test.0'",
+    "@owd-client/core": "^2.0.0-beta.3-test.0",
     "imjoy-core": "^0.13.74",
     "owd-theme-gnome": "hacklover/owd-theme-gnome"
   },
